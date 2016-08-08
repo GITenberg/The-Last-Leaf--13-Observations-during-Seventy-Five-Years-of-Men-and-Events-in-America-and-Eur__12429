@@ -1,0 +1,31 @@
+_repo: The-Last-Leaf--13-Observations-during-Seventy-Five-Years-of-Men-and-Events-in-America-and-Eur__12429
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hosmer, James Kendall
+    alias: Hosmer, J. K. (James Kendall)
+    birthdate: 1834
+    deathdate: 1927
+    gutenberg_agent_id: '4364'
+    url: http://www.gutenberg.org/2009/agents/4364
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12429'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'United States -- History'
+- !lcsh 'History'
+- GITenberg
+tableOfContents: Statesmen of our critical period -- Soldiers I have met -- Horace
+  Mann and Antioch College -- The giant in the spiked helmet -- A student's experience
+  in the Franco-Prussian war -- American historians -- English and German historians
+  -- Poets and prophets -- Men of science -- At haphazard.
+title: "The Last Leaf\r\nObservations, during Seventy-Five Years, of Men and Events\
+  \ in America and Europe"
+url: http://www.gutenberg.org/ebooks/12429
